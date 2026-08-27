@@ -58,6 +58,15 @@ const tools = [
     status: "construction",
     color: "#fbbf24",
   },
+  {
+    id: "07",
+    name: "Tracker",
+    description:
+      "Track and monitor CNCP project progress and member activities.",
+    url: "https://cncp-tracker.vercel.app/",
+    status: "active",
+    color: "#ff8a50",
+  },
 ];
 
 function Arrow() {
