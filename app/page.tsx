@@ -44,9 +44,9 @@ const tools = [
     id: "05",
     name: "Discord Bot",
     description:
-      "Automated server management, moderation, and member onboarding.",
-    url: "#",
-    status: "coming-soon",
+      "Automated server management and moderation. Use /announce-axie in the server to get started.",
+    url: "https://github.com/Cisco-NetConnect-PUP-Manila/cisco-discord-bot",
+    status: "active",
     color: "#a78bfa",
   },
   {
