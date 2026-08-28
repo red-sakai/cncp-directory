@@ -67,6 +67,15 @@ const tools = [
     status: "active",
     color: "#ff8a50",
   },
+  {
+    id: "08",
+    name: "FrameIt",
+    description:
+      "Create DP blasts with no watermark. Clean, fast, and ready to share.",
+    url: "https://beta-frameit.vercel.app/",
+    status: "active",
+    color: "#e879f9",
+  },
 ];
 
 function Arrow() {
