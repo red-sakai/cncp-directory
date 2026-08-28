@@ -76,6 +76,15 @@ const tools = [
     status: "active",
     color: "#e879f9",
   },
+  {
+    id: "09",
+    name: "Event Registration",
+    description:
+      "Register and manage attendees for CNCP Manila events and meetups.",
+    url: "https://cncp-event-registration.vercel.app/",
+    status: "active",
+    color: "#2dd4bf",
+  },
 ];
 
 function Arrow() {
