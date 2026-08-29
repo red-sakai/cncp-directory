@@ -85,6 +85,15 @@ const tools = [
     status: "active",
     color: "#2dd4bf",
   },
+  {
+    id: "10",
+    name: "Scheduler",
+    description:
+      "Schedule interviews without free trial limits. Fully functional, no strings attached.",
+    url: "https://cncp-scheduler.vercel.app/",
+    status: "active",
+    color: "#a3e635",
+  },
 ];
 
 function Arrow() {
